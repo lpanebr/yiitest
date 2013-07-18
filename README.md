@@ -1,4 +1,4 @@
-yiitest
+yiitest...xxx
 =======
 
 yii test
